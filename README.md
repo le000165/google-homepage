@@ -14,6 +14,9 @@ git commit -m "Initial commit"
 git branch
 git push -u origin main
 ```
+## DATE: 2020/12/22
+- Project is finished with a few responsive on mobile
+- Project was referenced from both original google home page and other people
 
 ## Author: Phong
 
