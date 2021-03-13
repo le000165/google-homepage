@@ -1,4 +1,6 @@
 # Google Home Page with only HTML, CSS
+##Live Demo:
+  https://le000165.github.io/google-homepage/
 ## Purpose
 - Recall HTML and CSS basics knowledge
 - This project is comming from The Odin Project
